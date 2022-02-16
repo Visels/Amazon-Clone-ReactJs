@@ -2,7 +2,19 @@ import React from 'react'
 
 function Product() {
   return (
-    <div>PRODUCT </div>
+    <div>
+    
+//     product description
+    
+    
+    //product price
+    
+    
+    //product rating
+    
+    //product image
+    
+    </div>
 
   )
 }
