@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Product() {
+function Product({description, price, image, rating}) {
   return (
     <div>
     
