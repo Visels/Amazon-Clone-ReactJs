@@ -20,9 +20,9 @@ function Product({title, image, price, rating}) {
 
 
               {Array(rating).fill().map((_,i) => {
-
+                
                 return <p>⭐</p>
-
+                
               })}
 
 
@@ -37,8 +37,8 @@ function Product({title, image, price, rating}) {
               
               <button>Add to Basket</button>
               
-              </div>        
                   
+              </div>        
                   
   
     </div>
