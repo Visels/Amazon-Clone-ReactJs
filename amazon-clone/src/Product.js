@@ -3,7 +3,9 @@ import './Product.css'
 
 function Product() {
   return (
-    <div className='product'>
+    
+    <div className="product">
+
         
     <div className="product__info">
     
@@ -34,7 +36,10 @@ function Product() {
     </div>        
         
         
-        </div>
+  
+    </div>
+
+
   )
 }
 
