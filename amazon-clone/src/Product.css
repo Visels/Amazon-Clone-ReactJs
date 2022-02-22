@@ -1,5 +1,6 @@
 .product {
-  display: flex;
+  display: unset;
+  /* display: flex; */
   flex-direction: row;
 
   align-items: center;
@@ -22,6 +23,9 @@
 }
 
 .product__info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   /* height: 100px; */
   margin-bottom: 15px;
 }

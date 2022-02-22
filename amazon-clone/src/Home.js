@@ -22,6 +22,14 @@ function Home() {
         rating = {4}
         
         />
+        <Product
+        
+        title= "Original HP 67XL Black High-yield Ink Cartridge | Works with HP DeskJet 1255, 2700, 4100 Series, HP ENVY 6000, 6400 Series | Eligible for InstantInk | 3YM57AN"
+        price = {29.99}
+        image = "https://m.media-amazon.com/images/I/61pUul1oDlL._AC_UL320_.jpg"
+        rating = {4}
+        
+        />
     {/* Product */}
     {/* Product */}
 
