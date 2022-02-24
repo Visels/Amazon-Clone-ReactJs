@@ -7,8 +7,22 @@ function Subtotal() {
   return (
     <div className = "subtotal">
         
-        <h1>I am the subtotal component</h1>
+
+        <CurrencyFormat 
         
+        
+        
+        
+        
+        
+        
+        
+        />
+
+
+
+
+
         </div>
   )
 }
