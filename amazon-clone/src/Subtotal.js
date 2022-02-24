@@ -8,6 +8,7 @@ function Subtotal() {
     <div className = "subtotal">
         
 
+        //helps with the display and manipulation of money
         <CurrencyFormat 
         
         
