@@ -10,3 +10,5 @@ Amazon e-commerce clone using:
 With Login features.
 
 Done.
+
+Working on the express and stripe payment section.
