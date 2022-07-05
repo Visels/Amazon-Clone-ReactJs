@@ -1,2 +1,2 @@
-This is an amazon clone 
+This is an amazon 
 
