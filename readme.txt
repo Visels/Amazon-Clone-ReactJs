@@ -1,2 +1,2 @@
-This is an amazon clone using React, redux, express and
+This is an amazon clone using React, redux, express 
 
