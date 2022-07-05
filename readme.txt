@@ -1,2 +1,2 @@
-This is an amazon 
+This is an 
 
