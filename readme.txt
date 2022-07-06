@@ -1,1 +1,1 @@
-This is a react amazon
+This is a react amazon clone
