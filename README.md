@@ -11,4 +11,4 @@ With Login features.
 
 
 
-Fully integrated stripe section.
+Fully integrated payments and stripe section.
