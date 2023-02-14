@@ -11,4 +11,4 @@ With Login features.
 
 
 
-Working on the express and stripe payment section.
+Fully integrated stripe section.
